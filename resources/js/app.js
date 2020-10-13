@@ -29,6 +29,7 @@ Vue.component(
     "change-color-button",
     require("./components/ChangeColorButton.vue").default
 );
+Vue.component("status-board", require("./components/StatusBoard.vue").default);
 
 const app = new Vue({
     vuetify: Vuetify,
