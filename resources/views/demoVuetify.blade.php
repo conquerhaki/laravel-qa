@@ -15,6 +15,7 @@
                     <change-color-button>
                         <change-color-button />
 
+                    <
                         You are logged in!
                 </div>
             </div>
