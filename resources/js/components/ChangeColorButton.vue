@@ -1,5 +1,5 @@
 <template>
   <div>
-    <v-btn> Change my color! </v-btn>
+    <v-btn dark> Change my color! </v-btn>
   </div>
 </template>
