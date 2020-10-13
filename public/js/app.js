@@ -18471,7 +18471,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.spinner[data-v-7ae326fe] {\n    color: #ddd; \n    text-align: center;\n    /* min-width: 109.61px; */\n}\n", ""]);
+exports.push([module.i, "\n.spinner[data-v-7ae326fe] {\r\n    color: #ddd; \r\n    text-align: center;\r\n    /* min-width: 109.61px; */\n}\r\n", ""]);
 
 // exports
 
@@ -82567,8 +82567,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/eding/Workspace/Laravel/laravel-qa/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/eding/Workspace/Laravel/laravel-qa/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\Hacktoberfest from Tommy\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\Hacktoberfest from Tommy\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
