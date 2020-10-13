@@ -13,10 +13,11 @@
                     @endif
 
                     <change-color-button>
-                        <change-color-button />
+                    </change-color-button>
 
-                    <
-                        You are logged in!
+                    <status-board>
+                    </status-board>
+
                 </div>
             </div>
         </div>

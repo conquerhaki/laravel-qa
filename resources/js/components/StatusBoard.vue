@@ -1,5 +1,5 @@
 <template>
-  <div id="button-change-color">
+  <div id="status-message">
     <p>{{ statusMessage }}</p>
   </div>
 </template>
@@ -8,11 +8,16 @@
 export default {
   data() {
     return {
-      statusMessage: "",
+      statusMessage: "Default color is red",
     };
   },
 };
 </script>
  
 <style>
+#status-message {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 30px;
+}
 </style>
