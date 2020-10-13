@@ -12,3 +12,19 @@
     </v-btn>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      changeColor: true,
+    };
+  },
+};
+</script>
+ 
+<style>
+#button-change-color {
+  text-align: center;
+}
+</style>
